@@ -43,6 +43,7 @@ let swfit默认使用 = "Int"
 var y = 14554815454
 
 
+
 //4.浮点型(小数型) 单进度Float 32位浮点数 精度6位
 
 let a :Float
